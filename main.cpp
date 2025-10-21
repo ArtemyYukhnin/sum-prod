@@ -19,7 +19,7 @@ int main(int args, char* argv[]){
 	}
 	else{
 		unsigned int number;
-		std::cout<<"Input number: "<<std::endl;
+		//std::cout<<"Input  number: "<<std::endl;
 		std::cin>>number;
 
 		do{
